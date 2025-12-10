@@ -50,29 +50,6 @@ header {
     display: block;
 }
 
-.logo a {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    font-weight: 800;
-    font-size: 1.1rem;
-    color: var(--ikea-blue);
-    text-decoration: none;
-}
-
-.logo-mark {
-    width: 28px;
-    height: 18px;
-    border-radius: 4px;
-    background-color: var(--ikea-blue);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--ikea-yellow);
-    font-weight: 900;
-    font-size: 0.8rem;
-}
-
 nav ul {
     list-style: none;
     display: flex;
